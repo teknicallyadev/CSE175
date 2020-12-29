@@ -1,0 +1,10 @@
+
+Full Pathnames for Data Files
+
+./SampleData/Criminal/facts.dat
+
+./SampleData/Criminal/rules.dat
+
+(Criminal ?person)
+
+(Criminal Noelle)
